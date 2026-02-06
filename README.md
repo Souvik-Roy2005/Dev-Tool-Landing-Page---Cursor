@@ -133,13 +133,6 @@ The following sections from the reference website were recreated:
 
 > 
 
----
-
-## 🌐 Live Demo (Optional)
-
-If hosted (GitHub Pages or similar), add the link here:
-
-👉 **Live Site:** *[Insert live URL]*
 
 ---
 
