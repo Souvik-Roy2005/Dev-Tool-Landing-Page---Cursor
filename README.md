@@ -131,7 +131,7 @@ The following sections from the reference website were recreated:
 
 ## 📸 Screenshots
 
-> ![Demo Screenshot](Cursor/assets/screenshot/Screenshot.png)
+> ![Demo Screenshot](Dev Tool Landing Page - Cursor/assets/screenshot/Screenshot.png)
 
 
 ---
