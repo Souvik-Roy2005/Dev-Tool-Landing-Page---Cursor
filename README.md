@@ -127,12 +127,6 @@ The following sections from the reference website were recreated:
 * ✅ No animations or interactive effects
 * ✅ Desktop-only (no responsiveness required)
 
----
-
-## 📸 Screenshots
-
-> ![Demo Screenshot](Dev Tool Landing Page - Cursor/assets/screenshot/Screenshot.png)
-
 
 ---
 
